@@ -1,5 +1,5 @@
 # HitungQoS
-HitungQoS v1.0 - [Download di sini]
+HitungQoS v0.1 - [Download di sini]
 
 Program untuk menghitung QoS secara otomatis.  
 *Membutuhkan program Microsoft Excel untuk menggunakan program ini.*
